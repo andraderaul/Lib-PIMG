@@ -1,4 +1,4 @@
-# Lib-PIMG
+# lib-PIMG
 
 * Disciplina: Processamento de Imagem
 * Lista: Construção de uma biblioteca
